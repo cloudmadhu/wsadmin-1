@@ -1,1 +1,1 @@
-This script will list all the applications that are deployed on app server and the jvm initial and maximum heap sizes.
+This script will list all the java applications that are deployed on app server and the jvm initial and maximum heap sizes on an IBM WebSphere Application Server v5/v6.
